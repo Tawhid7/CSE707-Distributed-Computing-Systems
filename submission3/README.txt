@@ -11,7 +11,10 @@ Brendan Burns
 2018
 O'Reilly Media, Inc
 
-Book chapter name and link: 
+Link to the book:
+https://drive.google.com/file/d/1d3eC_DT3LAOIIQ3MeXRipB9p0qhU6VA7/view?usp=sharing
+
+Link to the book chapter:
 CHAPTER 8
 Functions and Event-Driven Processing
 https://drive.google.com/file/d/1d3eC_DT3LAOIIQ3MeXRipB9p0qhU6VA7/view
