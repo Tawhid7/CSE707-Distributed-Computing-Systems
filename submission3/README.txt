@@ -1,10 +1,18 @@
 Link to unlisted youtube video:
-https://youtu.be/
+https://youtu.be/2xdLa3XYlj8
 
 Link to the Concept Map:
 https://drive.google.com/drive/folders/1mb5566MDWUFPXgVOYDiTk08im4dqXCkx
 
-Book chapter name and link: CHAPTER 8
+Name, Author, Edition, year and publisher of the Book:
+Designing Distributed Systems
+Brendan Burns
+1st edition
+2018
+O'Reilly Media, Inc
+
+Book chapter name and link: 
+CHAPTER 8
 Functions and Event-Driven Processing
 https://drive.google.com/file/d/1d3eC_DT3LAOIIQ3MeXRipB9p0qhU6VA7/view
 
