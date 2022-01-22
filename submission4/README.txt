@@ -16,7 +16,6 @@ Paper submission date: 20th January, 2022.
 Paper submission ID: 9
 
 Conference URL:
-
 https://www.ietcint.com/#:~:text=The%20Second%20International%20Conference%20on,August%2025%20to%2027%2C%202022
 
 Group Number:
